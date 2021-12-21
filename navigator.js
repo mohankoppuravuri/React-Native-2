@@ -12,7 +12,7 @@ const MainNavigator = createStackNavigator(
 		Question            : { screen: Question },
 	},
 	{
-		initialRouteName    : 'Landing',
+		initialRouteName    : 'Login',
 	},
 );
 

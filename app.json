@@ -6,7 +6,8 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "description": ""
+    "description": "",
+    "githubUrl": "https://github.com/mohankoppuravuri/React-Native-2"
   },
   "name": "initApp"
 }
