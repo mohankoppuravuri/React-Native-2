@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "initApp",
+    "slug": "initApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  },
+  "name": "initApp"
+}
